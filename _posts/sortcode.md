@@ -1,10 +1,7 @@
----
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2021-09-17 12:20:14 -0400
-categories: jekyll update
----
-!git clone https://github.com/msaxton/gibbon-decline-and-fall-text.git
+# -- Sortcode
+ My Code for Sorting Words in Gibbon from most to least frequent 
+ 
+ ` !git clone https://github.com/msaxton/gibbon-decline-and-fall-text.git
 gibbon_corpus = PlaintextCorpusReader('./gibbon-decline-and-fall-text', '.*\.txt')
 import collections
 import operator
@@ -13,7 +10,6 @@ word_dict={}
 text = open('/content/declineandfall-gut.txt')  ## PETER: This call reads in the file one line at a time
 for line in text:
   words = line.split()
-  #word_list = [word.strip('.,!?:;"').lower() for word in line.split()] 
 
   
   for item in words:
@@ -52,4 +48,4 @@ for word in sorted(word_dict,key=word_dict.get,reverse=True):
         continue
       else: 
         print(word, word_dict[word])
-    gibbon_counter("/content/declineandfall-gut.txt")
+    gibbon_counter("/content/declineandfall-gut.txt") `
