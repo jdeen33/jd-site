@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Gibbon's Geographies"
+date:   2021-09-26 2:22
+categories: 
+---
+**What points is this paper trying to explain?**
+This paper outlines the ways in which Geography captured and influenced Gibbon's historical imagination. Initially his main foray into historical research and scholarship, geographical critical methods were
+instrumental in his initial conceptions of ancient civilizations. This paper outlines his early influences as evidenced by his library and journal entires. In addition, it attempts to show how even when Gibbon moved away from Geographic scholarship, his ability to place people, events, and civilizations within time and space gave him immense credibility as a historian. 
+
+**Who are the people that this article mentions? Can you get background information about them online, whether from Wikipedia or elsewhere? Can you figure out what is going on?**
+The article mentions many geographers and philosophers whose work and methodologies influenced Gibbon such as Jean-Baptiste Bourguignon d'Anville, John Locke, Edward Wells etc. I was able to find information about most of them online, and the article did provide a bit of insight into each of their works.I think this article assumes the reader has knowledge of the influence methodology has on different academic disciplines, and understands how applications of various theoretical frameworks can radically change the sort of research one decides to undertake. I could see it being slightly more difficult to determine the goal of the article if you don't have that sort of understanding already. I also didn't initially understand what writer meant by 'commonplacing' , but when I looked it up learned that commonplace books are "Similar to scrapbooks filled with items of many kinds: notes, proverbs, adages, aphorisms, quotes..etc.  Commonplaces are used by readers, writers, students, and scholars as an aid for remembering useful concepts or facts". This seemed to be one of the main modes of education at the time.
+
+**What might WE do to accomplish this goal better?**
+One thing that comes to mind immediately would be to provide visuals of the different types of maps Gibbon was studying. One example could be comparison of two maps of the same place- one created by ancient historians and one created during Gibbon's time period. This would help the reader to both literally see what Gibbon saw, as well as understand a bit better the methodology which led him to these types of comparisons. Another thing that could be helpful would be to provide links to brief biographies of the authors he is mentioning, or at least a brief description of their methodology in the context of geography/history.
+
+**How might we more generally convey the way Gibbon talks about space? Do we care? If so, what would be helpful?**
+We should care about the way Gibbon thinks and talks about space, because it influences his conception of and narrativization of history. One example is Gibbon's work 'A Minute Examination of Horace's Journey to Brundisium' in which he "looked at the debates over the lengths of ancient units for measuring distances in the hope that a critical examination of the ordinary journiers of travellers would afford important information concerning the private life of the Romans, and even throw light on geography and chronology" (47-48). Looking at this, we can say Gibbon thinks about space as both a mode of determining chronology (and therefore establishing historical credibility) as well as a measure of what was possible during a given time period. 
